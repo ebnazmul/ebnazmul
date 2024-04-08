@@ -1,7 +1,7 @@
-<h2 align="left">Hi 👋 <br>This is Nazmul Islam.</h2>
+<h2 align="left">Hi 👋 I'm Nazmul Islam.</h2>
 
 ###
-
+<p>I know little bit..</p>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -15,6 +15,8 @@
 </div>
 
 ###
+
+<p>Feel free to contact me for anything!</p>
 
 <div align="left">
   <a href="mailto:nazmulislam2322@gmail.com" target="_blank">
