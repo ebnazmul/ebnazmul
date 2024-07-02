@@ -29,17 +29,16 @@
       <img
         alt="MongoDB"
         src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-      
 </p>
 
 <h3>Technologies I'm Exploring</h3>
 <p>
       <img
+        alt="Typescipt"
+        src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img
         alt="Next.js"
         src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white " />
-      <img
-        alt="Typescipt"
-        src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescrpt&logoColor=white" />
         <img
         alt="AWS"
         src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonec2&logoColor=white" />
