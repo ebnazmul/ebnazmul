@@ -1,5 +1,8 @@
 <img alt="@ebnazmul's header image" src="https://github.com/ebnazmul/ebnazmul/blob/main/images/header.png"/>
 
+<h3>About Me</h3>
+<p>I'm Nazmul Islam. I've dreamed of building beautiful and cool websites since my teenage years. I started learning web development seriously last year, and I still find it incredibly enjoyable.</p>
+
 <h3>Technologies I Work With</h3>
 <p>
       <img
@@ -26,19 +29,21 @@
       <img
         alt="MongoDB"
         src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-      <img
-        alt="AWS EC2"
-        src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" />
-      <img
-        alt="Nginx"
-        src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
-    </p>
+      
+</p>
+
 <h3>Technologies I'm Exploring</h3>
-      <p>
+<p>
       <img
         alt="Next.js"
         src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white " />
       <img
         alt="Typescipt"
         src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescrpt&logoColor=white" />
-    </p>
+        <img
+        alt="AWS"
+        src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonec2&logoColor=white" />
+      <img
+        alt="Nginx"
+        src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+</p>
