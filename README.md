@@ -1,4 +1,5 @@
-<img alt="@ebnazmul's heade image" sc="./images/header.png"/>
+<img alt="@ebnazmul's header image" src="https://github.com/ebnazmul/ebnazmul/blob/main/images/header.png"/>
+
 
 ###
 <p>I know little bit..</p>
